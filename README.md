@@ -72,5 +72,3 @@ O produto final é um **relatório PDF automatizado** com visualizações, métr
 
 ---
 
-## 📂 Estrutura do Projeto
-
